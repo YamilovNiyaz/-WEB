@@ -1,0 +1,36 @@
+.first_block {
+    width: 450px;
+    height: 130px;
+
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: 450px;
+    background: white;
+    border: 4px solid firebrick;
+}
+
+.second_block {
+    width: 900px;
+    height: 80px;
+    margin-left: 200px;
+    background: white;
+    border: 4px solid firebrick;
+}
+.three_block{
+    width: 450px;
+    height: 160px;
+    background: white;
+    border: 4px solid firebrick;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 450px;
+}
+.four_block{
+    width: 900px;
+    height: 160px;
+    background: white;
+    border: 4px solid firebrick;
+    margin-left: 200px;
+}
+
+
